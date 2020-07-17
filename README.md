@@ -22,7 +22,7 @@ npm start
 
 ### 用法
 
-具体 demo 可以在 react-hooks-demo\api-course\src\router.tsx 中切换 浏览器地址 查看。
+具体 demo 可以查看 react-hooks-demo\api-course\src\router.tsx 中各个 api 的路由，替换浏览器地址路由查看详情。
 
 ```sh
 npm start
