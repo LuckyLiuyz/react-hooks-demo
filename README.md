@@ -13,3 +13,17 @@
 ```sh
 npm start
 ```
+
+## demo: api-course, React Hooks 相关 API demo。
+
+### 介绍
+
+编写具体示例，介绍 useState、useEffect、useCallback、useContext、useRef 等 api。
+
+### 用法
+
+具体 demo 可以在 react-hooks-demo\api-course\src\index.tsx 中切换 App 的来源查看。
+
+```sh
+npm start
+```
