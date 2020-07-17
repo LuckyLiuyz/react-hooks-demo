@@ -2,7 +2,7 @@
 
 探索 react hooks 的使用方法
 
-## demo: train-ticket,重构去哪儿网买火车票
+## 1、demo: train-ticket,重构去哪儿网买火车票
 
 ### 介绍
 
@@ -14,7 +14,7 @@
 npm start
 ```
 
-## demo: api-course, React Hooks 相关 API demo。
+## 2、demo: api-course, React Hooks 相关 API demo。
 
 ### 介绍
 
@@ -22,7 +22,7 @@ npm start
 
 ### 用法
 
-具体 demo 可以在 react-hooks-demo\api-course\src\index.tsx 中切换 App 的来源查看。
+具体 demo 可以在 react-hooks-demo\api-course\src\router.tsx 中切换 浏览器地址 查看。
 
 ```sh
 npm start
